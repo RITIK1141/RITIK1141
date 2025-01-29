@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RITIK KUMAR</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Android Develoment**
+- 🌱 I’m currently learning **Web Develoment**
 
 - 📫 How to reach me **kumarritik1331@gmail.com**
 
